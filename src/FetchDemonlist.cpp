@@ -54,7 +54,7 @@ void FetchDemonlist::fetch()
 
     CURL *curl;
     CURLcode res;
-
+// hi
     std::string readBuffer;
 
     curl = curl_easy_init();
